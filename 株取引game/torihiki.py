@@ -3,6 +3,7 @@ import time
 
 from tentoapp import *
 
+print("このコンテンツはTentoAppによって作られました   https://speakerdeck.com/anoato/xue-xi-yong-guiraiburaritentoapp-jia-nituite") 
 def x():
     global kabuka,kane,motika,kabuka2,motika2,kabuka3,motika3,q
     q=int(random.randint(-10,10))
